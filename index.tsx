@@ -1,5 +1,7 @@
 import React from 'https://esm.sh/react'
 
+const h = React
+
 export function App() {
     return (
       <html>
