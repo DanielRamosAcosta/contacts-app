@@ -1,6 +1,6 @@
 import React from 'https://esm.sh/react'
 
-const h = React
+const h = React.createElement
 
 export function App() {
     return (
